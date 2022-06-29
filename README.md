@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ##Project Live Preview
-Open [https://intrapair-music-player.app/](https://intrapair-music-player.app/) to preview countdown timer.
+Open [https://intrapair-music-player.netlify.app/](https://intrapair-music-player.netlify.app/) to preview countdown timer.
 ## Available Scripts
 
 In the project directory, you can run:
